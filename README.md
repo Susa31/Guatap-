@@ -1,4 +1,4 @@
-# Proyecto Web: Sitio de Actividades
+# Proyecto Web: Guatape
 
 Este repositorio contiene una página web interactiva que muestra información sobre distintas actividades y servicios. Puedes visualizarla fácilmente sin necesidad de un servidor web.
 
